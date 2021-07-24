@@ -760,6 +760,58 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
           }}
         
         
+          @media (max-width: 270px) {
+            h1 {
+                display:flex;
+                flex-wrap:wrap;
+              color:#ef233c;
+              font-size: 20px;
+              justify-content: center;
+              margin: 0px;
+              padding: 0px;
+            }}
+          
+          @media (max-width: 270px) {
+            h2 {
+                display:flex;
+                flex-wrap:wrap;
+              color:#f94144;
+              font-size: 40px;
+              justify-content: center;
+              align-items: center;
+              margin: 0px;
+              padding: 0px;
+              line-height: 30px;
+          }}
+        
+          @media (max-width: 270px) {
+            h3 {
+                display:flex;
+                text-align: center;
+              color:#d90429;
+              font-size: 20px;
+              justify-content: center;
+              margin: 0px;
+              padding: 2px;
+          }}
+        
+          @media (max-width: 270px) {
+            .overtaken { margin-top: 12px;
+               
+          }}
+        
+        
+        
+          @media (max-width: 270px) {
+            h4 {
+                display:flex;
+                flex-wrap:wrap;
+              color:#ef233c;
+              font-size: 30px;
+              justify-content: center;
+              margin: 0px;
+              padding: 0px;
+          }}
         
           
           @media (max-width: 320px) {
@@ -771,6 +823,8 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
                 margin: 0 auto;
             }
           }
+
+       
         
           @media (max-width: 320px) {
             th{ font-size: 15px;
@@ -782,8 +836,21 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
                  
             }
           }
+
           @media (max-width: 320px) {
-            .tfoot{   font-size: 15px;
+            th{ font-size: 10px;
+                padding: 3px;
+                border-style:solid;
+                border-width: 1px;  
+                border-radius: 2px;
+                background-color: #e63946;
+                 
+            }
+          }
+
+
+          @media (max-width: 320px) {
+            .tfoot{   font-size: 10px;
                 padding: 3px;
                 border-style:solid;
                 border-width: 1px;  
