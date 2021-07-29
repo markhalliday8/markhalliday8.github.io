@@ -140,7 +140,7 @@ flex-grow: 1;
            background-color: #e63946; 
            padding: 10px; 
            text-align: center;
-           justify-content: space-evenly;
+           align-items: center;
       border-radius: 2px;
       flex-basis: 25%;
 flex-grow: 1;
