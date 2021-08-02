@@ -182,7 +182,7 @@ flex-grow: 1;
       @media (max-width: 425px) {     
         /* Dropdown Button */
         .dropbtn {
-          font-size: 17px;   
+          font-size: 14px;   
         }}
 
       @media (max-width: 375px) {     
@@ -694,7 +694,7 @@ flex-grow: 1;
             }
           }
           @media (max-width: 425px) {
-            th{ font-size: 12px;
+            th{ font-size: 10px;
                 padding: 2px;
                 border-style:solid;
                 border-width: 1px;  
@@ -789,7 +789,7 @@ flex-grow: 1;
           }
          
           @media (max-width: 425px) {
-            .tfoot{   font-size: 16px;
+            .tfoot{   font-size: 11px;
                 padding: 10px;
                 border-style:solid;
                 border-width: 1px;  
