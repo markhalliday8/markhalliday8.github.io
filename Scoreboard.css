@@ -688,6 +688,17 @@ h1 {
        
   }
 }
+@media (max-width: 570px) {
+  th{ font-size: 12px;
+      padding: 2px;
+      border-style:solid;
+      border-width: 1px;  
+      border-radius: 2px;
+      background-color: #e63946;
+       
+  }
+}
+
 @media (max-width: 500px) {
   th{ font-size: 12px;
       padding: 2px;
@@ -782,6 +793,18 @@ h1 {
        
   }
 }
+
+@media (max-width: 570px) {
+  .tfoot{   font-size: 12px;
+      padding: 10px;
+      border-style:solid;
+      border-width: 1px;  
+      border-radius: 2px;
+      background-color: #457b9d;
+       
+  }
+}
+
 @media (max-width: 500px) {
   .tfoot{   font-size: 16px;
       padding: 10px;
